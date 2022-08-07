@@ -1,2 +1,4 @@
 # WebAppMethodology
-## IN PROGRESSSThis is the genera
+
+## IN PROGRESSS
+This is the methodology summrising web application test methodology
